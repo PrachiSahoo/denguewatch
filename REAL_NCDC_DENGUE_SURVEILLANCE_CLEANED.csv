@@ -1,0 +1,367 @@
+Record_ID,State_UT,Disease_Diagnosed,Cases_Reported,Deaths_Reported,Epi_Week,Surveillance_Year,Outbreak_Status,Public_Health_Action,Source_Bulletin
+NCDC-IDSP-2023-W01-001,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,1,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",001_Week 1.pdf
+NCDC-IDSP-2023-W01-003,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,1,1,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",001_Week 1.pdf
+NCDC-IDSP-2023-W02-005,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,2,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",002_Week 2.pdf
+NCDC-IDSP-2023-W04-007,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,4,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",004_Week 4.pdf
+NCDC-IDSP-2023-W05-010,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,5,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",005_Week 5.pdf
+NCDC-IDSP-2023-W06-013,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,6,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",006_Week 6.pdf
+NCDC-IDSP-2023-W07-014,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,7,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",007_Week 7.pdf
+NCDC-IDSP-2023-W08-015,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,8,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",008_Week 8.pdf
+NCDC-IDSP-2023-W10-016,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,10,10,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",010_Week 10.pdf
+NCDC-IDSP-2023-W10-017,National Surveillance,Dengue Fever (NS1/IgM Confirmed),17,0,10,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",010_Week 10.pdf
+NCDC-IDSP-2023-W10-020,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2026,10,10,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",010_Week 10.pdf
+NCDC-IDSP-2023-W13-023,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2026,13,13,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",013_Week 13.pdf
+NCDC-IDSP-2023-W13-024,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,13,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",013_Week 13.pdf
+NCDC-IDSP-2023-W13-025,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2026,13,13,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",013_Week 13.pdf
+NCDC-IDSP-2023-W14-027,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,14,14,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",014_Week 14.pdf
+NCDC-IDSP-2023-W14-028,National Surveillance,Dengue Fever (NS1/IgM Confirmed),4,0,14,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",014_Week 14.pdf
+NCDC-IDSP-2023-W15-035,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,15,15,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",015_Week 15.pdf
+NCDC-IDSP-2023-W15-036,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,15,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",015_Week 15.pdf
+NCDC-IDSP-2023-W16-040,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2,0,16,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",016_Week 16.pdf
+NCDC-IDSP-2023-W17-041,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,17,17,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",017_Week 17.pdf
+NCDC-IDSP-2023-W17-042,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,17,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",017_Week 17.pdf
+NCDC-IDSP-2023-W19-048,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,19,19,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",019_Week 19.pdf
+NCDC-IDSP-2023-W19-049,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,19,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",019_Week 19.pdf
+NCDC-IDSP-2023-W20-056,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,20,20,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",020_Week 20.pdf
+NCDC-IDSP-2023-W20-057,National Surveillance,Dengue Fever (NS1/IgM Confirmed),1,0,20,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",020_Week 20.pdf
+NCDC-IDSP-2023-W21-067,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,21,21,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",021_Week 21.pdf
+NCDC-IDSP-2023-W21-068,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,21,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",021_Week 21.pdf
+NCDC-IDSP-2023-W22-071,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2026,22,22,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",022_Week 22.pdf
+NCDC-IDSP-2023-W22-073,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,22,22,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",022_Week 22.pdf
+NCDC-IDSP-2023-W23-077,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,23,23,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",023_Week 23.pdf
+NCDC-IDSP-2023-W23-078,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,23,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",023_Week 23.pdf
+NCDC-IDSP-2023-W24-092,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,24,24,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",024_Week 24.pdf
+NCDC-IDSP-2023-W24-093,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,24,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",024_Week 24.pdf
+NCDC-IDSP-2023-W25-108,Karnataka,Dengue Fever (NS1/IgM Confirmed),2026,25,25,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",025_Week 25.pdf
+NCDC-IDSP-2023-W25-109,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,25,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",025_Week 25.pdf
+NCDC-IDSP-2023-W25-110,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,25,25,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",025_Week 25.pdf
+NCDC-IDSP-2023-W26-118,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,26,26,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",026_Week 26.pdf
+NCDC-IDSP-2023-W26-119,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,26,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",026_Week 26.pdf
+NCDC-IDSP-2023-W27-124,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,27,27,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",027_Week 27.pdf
+NCDC-IDSP-2023-W27-125,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,27,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",027_Week 27.pdf
+NCDC-IDSP-2023-W28-132,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2026,0,28,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",028_Week 28.pdf
+NCDC-IDSP-2023-W28-134,Karnataka,Dengue Fever (NS1/IgM Confirmed),2026,28,28,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",028_Week 28.pdf
+NCDC-IDSP-2023-W28-136,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,28,28,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",028_Week 28.pdf
+NCDC-IDSP-2023-W28-140,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2026,28,28,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",028_Week 28.pdf
+NCDC-IDSP-2023-W29-143,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,29,29,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",029_Week 29.pdf
+NCDC-IDSP-2023-W29-144,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,29,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",029_Week 29.pdf
+NCDC-IDSP-2023-W29-147,Odisha,Dengue Fever (NS1/IgM Confirmed),2026,29,29,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",029_Week 29.pdf
+NCDC-IDSP-2023-W30-149,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2026,30,30,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",030_Week 30.pdf
+NCDC-IDSP-2023-W30-151,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,30,30,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",030_Week 30.pdf
+NCDC-IDSP-2023-W31-157,Karnataka,Dengue Fever (NS1/IgM Confirmed),10,0,31,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",031_Week 31.pdf
+NCDC-IDSP-2023-W31-158,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,31,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",031_Week 31.pdf
+NCDC-IDSP-2023-W31-159,Kerala,Dengue Fever (NS1/IgM Confirmed),160,0,31,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",031_Week 31.pdf
+NCDC-IDSP-2023-W32-165,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,32,32,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",032_Week 32.pdf
+NCDC-IDSP-2023-W32-166,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,32,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",032_Week 32.pdf
+NCDC-IDSP-2023-W32-176,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2026,32,32,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",032_Week 32.pdf
+NCDC-IDSP-2023-W33-180,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2026,33,33,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",033_Week 33.pdf
+NCDC-IDSP-2023-W33-184,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,33,33,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",033_Week 33.pdf
+NCDC-IDSP-2023-W34-190,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2026,34,34,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",034_Week 34.pdf
+NCDC-IDSP-2023-W34-196,Kerala,Dengue Fever (NS1/IgM Confirmed),2026,34,34,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",034_Week 34.pdf
+NCDC-IDSP-2023-W03-205,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,3,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",037_Week 3.pdf
+NCDC-IDSP-2023-W04-209,Kerala,Dengue Fever (NS1/IgM Confirmed),11,0,4,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",038_Week 4.pdf
+NCDC-IDSP-2023-W07-217,Kerala,Dengue Fever (NS1/IgM Confirmed),2025,7,7,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",041_Week 7.pdf
+NCDC-IDSP-2023-W09-221,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,9,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",043_Week 9.pdf
+NCDC-IDSP-2023-W11-230,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,11,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",045_Week 11.pdf
+NCDC-IDSP-2023-W12-232,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,12,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",046_Week 12.pdf
+NCDC-IDSP-2023-W13-234,Kerala,Dengue Fever (NS1/IgM Confirmed),2025,13,13,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",047_Week 13.pdf
+NCDC-IDSP-2023-W14-237,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2025,14,14,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",048_Week 14.pdf
+NCDC-IDSP-2023-W18-243,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,18,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",052_Week 18.pdf
+NCDC-IDSP-2023-W18-245,Kerala,Dengue Fever (NS1/IgM Confirmed),2025,18,18,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",052_Week 18.pdf
+NCDC-IDSP-2023-W21-289,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2025,21,21,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",055_Week 21.pdf
+NCDC-IDSP-2023-W22-303,Maharashtra,Dengue Fever (NS1/IgM Confirmed),26,0,22,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",056_Week 22.pdf
+NCDC-IDSP-2023-W22-305,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),37,0,22,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",056_Week 22.pdf
+NCDC-IDSP-2023-W24-314,Karnataka,Dengue Fever (NS1/IgM Confirmed),2025,24,24,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",058_Week 24.pdf
+NCDC-IDSP-2023-W26-335,Gujarat,Dengue Fever (NS1/IgM Confirmed),2025,26,26,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",060_Week 26.pdf
+NCDC-IDSP-2023-W28-353,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2025,28,28,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",062_Week 28.pdf
+NCDC-IDSP-2023-W30-360,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2025,30,30,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",064_Week 30.pdf
+NCDC-IDSP-2023-W32-366,Gujarat,Dengue Fever (NS1/IgM Confirmed),2025,32,32,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",066_Week 32.pdf
+NCDC-IDSP-2023-W33-375,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2025,33,33,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",067_Week 33.pdf
+NCDC-IDSP-2023-W33-379,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2025,33,33,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",067_Week 33.pdf
+NCDC-IDSP-2023-W34-390,Gujarat,Dengue Fever (NS1/IgM Confirmed),2025,34,34,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",068_Week 34.pdf
+NCDC-IDSP-2023-W34-393,Karnataka,Dengue Fever (NS1/IgM Confirmed),2025,34,34,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",068_Week 34.pdf
+NCDC-IDSP-2023-W35-409,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2025,35,35,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",069_Week 35.pdf
+NCDC-IDSP-2023-W35-430,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2025,35,35,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",069_Week 35.pdf
+NCDC-IDSP-2023-W36-432,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2025,0,36,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",070_Week 36.pdf
+NCDC-IDSP-2023-W37-438,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2025,37,37,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",071_Week 37.pdf
+NCDC-IDSP-2023-W37-442,Karnataka,Dengue Fever (NS1/IgM Confirmed),2025,37,37,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",071_Week 37.pdf
+NCDC-IDSP-2023-W37-444,Kerala,Dengue Fever (NS1/IgM Confirmed),2025,37,37,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",071_Week 37.pdf
+NCDC-IDSP-2023-W38-449,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,38,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",072_Week 38.pdf
+NCDC-IDSP-2023-W39-460,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2025,39,39,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",073_Week 39.pdf
+NCDC-IDSP-2023-W39-469,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2025,39,39,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",073_Week 39.pdf
+NCDC-IDSP-2023-W40-472,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2025,40,40,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",074_Week 40.pdf
+NCDC-IDSP-2023-W40-474,Kerala,Dengue Fever (NS1/IgM Confirmed),2025,40,40,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",074_Week 40.pdf
+NCDC-IDSP-2023-W40-476,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2025,40,40,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",074_Week 40.pdf
+NCDC-IDSP-2023-W40-478,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2025,40,40,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",074_Week 40.pdf
+NCDC-IDSP-2023-W41-480,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2025,41,41,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",075_Week 41.pdf
+NCDC-IDSP-2023-W42-485,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2025,42,42,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",076_Week 42.pdf
+NCDC-IDSP-2023-W42-489,Kerala,Dengue Fever (NS1/IgM Confirmed),2025,42,42,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",076_Week 42.pdf
+NCDC-IDSP-2023-W43-500,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2025,43,43,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",077_Week 43.pdf
+NCDC-IDSP-2023-W44-509,National Surveillance,Dengue Fever (NS1/IgM Confirmed),2025,44,44,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",078_Week 44.pdf
+NCDC-IDSP-2023-W45-514,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,45,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",079_Week 45.pdf
+NCDC-IDSP-2023-W46-523,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,46,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",080_Week 46.pdf
+NCDC-IDSP-2023-W47-525,Kerala,Dengue Fever (NS1/IgM Confirmed),2025,47,47,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",081_Week 47.pdf
+NCDC-IDSP-2023-W47-526,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,47,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",081_Week 47.pdf
+NCDC-IDSP-2023-W47-528,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2025,47,47,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",081_Week 47.pdf
+NCDC-IDSP-2023-W47-530,West Bengal,Dengue Fever (NS1/IgM Confirmed),2025,47,47,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",081_Week 47.pdf
+NCDC-IDSP-2023-W48-533,Kerala,Dengue Fever (NS1/IgM Confirmed),2025,48,48,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",082_Week 48.pdf
+NCDC-IDSP-2023-W48-534,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,48,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",082_Week 48.pdf
+NCDC-IDSP-2023-W48-536,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2025,48,48,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",082_Week 48.pdf
+NCDC-IDSP-2023-W49-540,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,49,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",083_Week 49.pdf
+NCDC-IDSP-2023-W50-546,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,50,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",084_Week 50.pdf
+NCDC-IDSP-2023-W51-548,Kerala,Dengue Fever (NS1/IgM Confirmed),2025,51,51,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",085_Week 51.pdf
+NCDC-IDSP-2023-W51-549,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,51,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",085_Week 51.pdf
+NCDC-IDSP-2023-W52-551,National Surveillance,Dengue Fever (NS1/IgM Confirmed),7,0,52,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",086_Week 52.pdf
+NCDC-IDSP-2023-W03-558,Kerala,Dengue Fever (NS1/IgM Confirmed),2024,3,3,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",089_Week 3.pdf
+NCDC-IDSP-2023-W03-561,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,3,3,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",089_Week 3.pdf
+NCDC-IDSP-2023-W04-567,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,4,4,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",090_Week 4.pdf
+NCDC-IDSP-2023-W05-569,Kerala,Dengue Fever (NS1/IgM Confirmed),2024,5,5,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",091_Week 5.pdf
+NCDC-IDSP-2023-W05-571,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2024,5,5,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",091_Week 5.pdf
+NCDC-IDSP-2023-W06-574,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,6,6,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",092_Week 6.pdf
+NCDC-IDSP-2023-W07-576,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,7,7,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",093_Week 7.pdf
+NCDC-IDSP-2023-W09-583,Kerala,Dengue Fever (NS1/IgM Confirmed),2024,9,9,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",095_Week 9.pdf
+NCDC-IDSP-2023-W11-588,Kerala,Dengue Fever (NS1/IgM Confirmed),2024,11,11,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",097_Week 11.pdf
+NCDC-IDSP-2023-W11-591,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,11,11,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",097_Week 11.pdf
+NCDC-IDSP-2023-W12-596,Karnataka,Dengue Fever (NS1/IgM Confirmed),2024,12,12,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",098_Week 12.pdf
+NCDC-IDSP-2023-W12-597,Kerala,Dengue Fever (NS1/IgM Confirmed),2024,12,12,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",098_Week 12.pdf
+NCDC-IDSP-2023-W12-599,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,12,12,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",098_Week 12.pdf
+NCDC-IDSP-2023-W12-607,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2024,12,12,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",098_Week 12.pdf
+NCDC-IDSP-2023-W14-617,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,14,14,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",100_Week 14.pdf
+NCDC-IDSP-2023-W15-622,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,15,15,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",101_Week 15.pdf
+NCDC-IDSP-2023-W16-626,Kerala,Dengue Fever (NS1/IgM Confirmed),2024,16,16,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",102_Week 16.pdf
+NCDC-IDSP-2023-W16-628,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,16,16,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",102_Week 16.pdf
+NCDC-IDSP-2023-W17-634,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,17,17,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",103_Week 17.pdf
+NCDC-IDSP-2023-W18-655,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,18,18,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",104_Week 18.pdf
+NCDC-IDSP-2023-W19-659,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,19,19,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",105_Week 19.pdf
+NCDC-IDSP-2023-W20-669,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,20,20,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",106_Week 20.pdf
+NCDC-IDSP-2023-W23-693,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,23,23,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",109_Week 23.pdf
+NCDC-IDSP-2023-W24-696,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,24,24,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",110_Week 24.pdf
+NCDC-IDSP-2023-W25-705,Gujarat,Dengue Fever (NS1/IgM Confirmed),2024,25,25,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",111_Week 25.pdf
+NCDC-IDSP-2023-W25-711,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,25,25,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",111_Week 25.pdf
+NCDC-IDSP-2023-W26-726,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,26,26,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",112_Week 26.pdf
+NCDC-IDSP-2023-W27-741,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,27,27,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",113_Week 27.pdf
+NCDC-IDSP-2023-W28-768,Odisha,Dengue Fever (NS1/IgM Confirmed),2024,28,28,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",114_Week 28.pdf
+NCDC-IDSP-2023-W29-776,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,29,29,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",115_Week 29.pdf
+NCDC-IDSP-2023-W29-777,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2024,29,29,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",115_Week 29.pdf
+NCDC-IDSP-2023-W30-792,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,30,30,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",116_Week 30.pdf
+NCDC-IDSP-2023-W31-798,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,31,31,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",117_Week 31.pdf
+NCDC-IDSP-2023-W32-813,Karnataka,Dengue Fever (NS1/IgM Confirmed),2024,32,32,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",118_Week 32.pdf
+NCDC-IDSP-2023-W32-816,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2024,32,32,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",118_Week 32.pdf
+NCDC-IDSP-2023-W33-819,Odisha,Dengue Fever (NS1/IgM Confirmed),2024,33,33,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",119_Week 33.pdf
+NCDC-IDSP-2023-W34-826,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,34,34,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",120_Week 34.pdf
+NCDC-IDSP-2023-W34-827,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2024,34,34,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",120_Week 34.pdf
+NCDC-IDSP-2023-W35-839,Kerala,Dengue Fever (NS1/IgM Confirmed),2024,35,35,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",121_Week 35.pdf
+NCDC-IDSP-2023-W36-844,Kerala,Dengue Fever (NS1/IgM Confirmed),2024,36,36,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",122_Week 36.pdf
+NCDC-IDSP-2023-W36-852,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,36,36,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",122_Week 36.pdf
+NCDC-IDSP-2023-W38-864,Bihar,Dengue Fever (NS1/IgM Confirmed),2024,38,38,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",124_Week 38.pdf
+NCDC-IDSP-2023-W38-866,Karnataka,Dengue Fever (NS1/IgM Confirmed),2024,38,38,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",124_Week 38.pdf
+NCDC-IDSP-2023-W38-870,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2024,38,38,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",124_Week 38.pdf
+NCDC-IDSP-2023-W38-873,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,38,38,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",124_Week 38.pdf
+NCDC-IDSP-2023-W44-927,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,44,44,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",130_Week 44.pdf
+NCDC-IDSP-2023-W45-937,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,45,45,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",131_Week 45.pdf
+NCDC-IDSP-2023-W47-945,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2024,47,47,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",133_Week 47.pdf
+NCDC-IDSP-2023-W48-952,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2024,48,48,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",134_Week 48.pdf
+NCDC-IDSP-2023-W01-964,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2023,1,1,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",139_Week 1.pdf
+NCDC-IDSP-2023-W05-975,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2023,5,5,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",143_Week 5.pdf
+NCDC-IDSP-2023-W31-1141,Gujarat,Dengue Fever (NS1/IgM Confirmed),2023,31,31,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",168_Week 31.pdf
+NCDC-IDSP-2023-W33-1176,Delhi,Dengue Fever (NS1/IgM Confirmed),2023,33,33,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",170_Week 33.pdf
+NCDC-IDSP-2023-W33-1204,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2023,33,33,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",170_Week 33.pdf
+NCDC-IDSP-2023-W34-1218,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2023,34,34,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",171_Week 34.pdf
+NCDC-IDSP-2023-W34-1220,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2023,34,34,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",171_Week 34.pdf
+NCDC-IDSP-2023-W35-1276,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2023,35,35,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",172_Week 35.pdf
+NCDC-IDSP-2023-W35-1280,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2023,35,35,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",172_Week 35.pdf
+NCDC-IDSP-2023-W36-1289,Bihar,Dengue Fever (NS1/IgM Confirmed),2023,36,36,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",173_Week 36.pdf
+NCDC-IDSP-2023-W36-1308,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2023,36,36,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",173_Week 36.pdf
+NCDC-IDSP-2023-W37-1317,Bihar,Dengue Fever (NS1/IgM Confirmed),2023,37,37,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",174_Week 37.pdf
+NCDC-IDSP-2023-W37-1322,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2023,37,37,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",174_Week 37.pdf
+NCDC-IDSP-2023-W37-1354,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2023,37,37,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",174_Week 37.pdf
+NCDC-IDSP-2023-W38-1390,Kerala,Dengue Fever (NS1/IgM Confirmed),2023,37,38,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",175_Week 38.pdf
+NCDC-IDSP-2023-W39-1397,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2023,39,39,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",176_Week 39.pdf
+NCDC-IDSP-2023-W40-1418,Bihar,Dengue Fever (NS1/IgM Confirmed),2023,40,40,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",177_Week 40.pdf
+NCDC-IDSP-2023-W40-1439,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2023,40,40,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",177_Week 40.pdf
+NCDC-IDSP-2023-W41-1460,Karnataka,Dengue Fever (NS1/IgM Confirmed),2023,41,41,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",178_Week 41.pdf
+NCDC-IDSP-2023-W41-1467,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2023,41,41,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",178_Week 41.pdf
+NCDC-IDSP-2023-W41-1476,Bihar,Dengue Fever (NS1/IgM Confirmed),2023,41,41,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",178_Week 41.pdf
+NCDC-IDSP-2023-W42-1484,Karnataka,Dengue Fever (NS1/IgM Confirmed),2023,42,42,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",179_Week 42.pdf
+NCDC-IDSP-2023-W42-1505,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2023,42,42,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",179_Week 42.pdf
+NCDC-IDSP-2023-W43-1568,Gujarat,Dengue Fever (NS1/IgM Confirmed),2023,43,43,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",180_Week 43.pdf
+NCDC-IDSP-2023-W43-1580,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2023,43,43,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",180_Week 43.pdf
+NCDC-IDSP-2023-W43-1606,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2023,43,43,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",180_Week 43.pdf
+NCDC-IDSP-2023-W44-1609,Bihar,Dengue Fever (NS1/IgM Confirmed),2023,44,44,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",181_Week 44.pdf
+NCDC-IDSP-2023-W44-1614,Karnataka,Dengue Fever (NS1/IgM Confirmed),2023,44,44,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",181_Week 44.pdf
+NCDC-IDSP-2023-W44-1617,Kerala,Dengue Fever (NS1/IgM Confirmed),2023,44,44,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",181_Week 44.pdf
+NCDC-IDSP-2023-W45-1654,Bihar,Dengue Fever (NS1/IgM Confirmed),2023,45,45,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",182_Week 45.pdf
+NCDC-IDSP-2023-W48-1700,Karnataka,Dengue Fever (NS1/IgM Confirmed),2023,48,48,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",185_Week 48.pdf
+NCDC-IDSP-2023-W49-1711,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2023,49,49,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",186_Week 49.pdf
+NCDC-IDSP-2023-W49-1718,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2023,49,49,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",186_Week 49.pdf
+NCDC-IDSP-2023-W50-1727,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2023,50,50,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",187_Week 50.pdf
+NCDC-IDSP-2023-W10-1739,Telangana,Dengue Fever (NS1/IgM Confirmed),2022,10,10,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",197_Week 10.pdf
+NCDC-IDSP-2023-W18-1771,Gujarat,Dengue Fever (NS1/IgM Confirmed),2022,18,18,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",205_Week 18.pdf
+NCDC-IDSP-2023-W19-1778,West Bengal,Dengue Fever (NS1/IgM Confirmed),2022,19,19,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",206_Week 19.pdf
+NCDC-IDSP-2023-W21-1789,Karnataka,Dengue Fever (NS1/IgM Confirmed),2022,21,21,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",208_Week 21.pdf
+NCDC-IDSP-2023-W23-1798,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2022,23,23,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",210_Week 23.pdf
+NCDC-IDSP-2023-W27-1820,Punjab,Dengue Fever (NS1/IgM Confirmed),2022,27,27,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",214_Week 27.pdf
+NCDC-IDSP-2023-W30-1832,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2022,30,30,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",217_Week 30.pdf
+NCDC-IDSP-2023-W33-1841,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2022,33,33,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",220_Week 33.pdf
+NCDC-IDSP-2023-W35-1848,Bihar,Dengue Fever (NS1/IgM Confirmed),2022,35,35,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",222_Week 35.pdf
+NCDC-IDSP-2023-W35-1850,Karnataka,Dengue Fever (NS1/IgM Confirmed),2022,35,35,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",222_Week 35.pdf
+NCDC-IDSP-2023-W39-1874,Bihar,Dengue Fever (NS1/IgM Confirmed),2022,39,39,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",226_Week 39.pdf
+NCDC-IDSP-2023-W41-1882,Telangana,Dengue Fever (NS1/IgM Confirmed),2022,41,41,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",228_Week 41.pdf
+NCDC-IDSP-2023-W43-1896,Kerala,Dengue Fever (NS1/IgM Confirmed),2022,43,43,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",230_Week 43.pdf
+NCDC-IDSP-2023-W44-1906,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2022,44,44,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",231_Week 44.pdf
+NCDC-IDSP-2023-W46-1913,Karnataka,Dengue Fever (NS1/IgM Confirmed),2022,46,46,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",233_Week 46.pdf
+NCDC-IDSP-2023-W46-1916,Kerala,Dengue Fever (NS1/IgM Confirmed),2022,46,46,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",233_Week 46.pdf
+NCDC-IDSP-2023-W46-1917,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2022,46,46,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",233_Week 46.pdf
+NCDC-IDSP-2023-W46-1922,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2022,46,46,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",233_Week 46.pdf
+NCDC-IDSP-2023-W49-1938,Karnataka,Dengue Fever (NS1/IgM Confirmed),2022,49,49,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",236_Week 49.pdf
+NCDC-IDSP-2023-W50-1942,Karnataka,Dengue Fever (NS1/IgM Confirmed),2022,50,50,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",237_Week 50.pdf
+NCDC-IDSP-2023-W02-1952,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2021,2,2,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",241_Week 2.pdf
+NCDC-IDSP-2023-W04-1957,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2021,4,4,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",243_Week 4.pdf
+NCDC-IDSP-2023-W06-1961,Karnataka,Dengue Fever (NS1/IgM Confirmed),2021,6,6,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",245_Week 6.pdf
+NCDC-IDSP-2023-W27-2033,Karnataka,Dengue Fever (NS1/IgM Confirmed),2021,27,27,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",266_Week 27.pdf
+NCDC-IDSP-2023-W36-2113,West Bengal,Dengue Fever (NS1/IgM Confirmed),2021,36,36,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",275_Week 36.pdf
+NCDC-IDSP-2023-W37-2125,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2021,37,37,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",276_Week 37.pdf
+NCDC-IDSP-2023-W38-2131,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2021,38,38,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",277_Week 38.pdf
+NCDC-IDSP-2023-W39-2142,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2021,39,39,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",278_Week 39.pdf
+NCDC-IDSP-2023-W41-2179,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2021,41,41,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",280_Week 41.pdf
+NCDC-IDSP-2023-W42-2183,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2021,42,42,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",281_Week 42.pdf
+NCDC-IDSP-2023-W42-2185,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2021,42,42,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",281_Week 42.pdf
+NCDC-IDSP-2023-W43-2195,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2021,43,43,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",282_Week 43.pdf
+NCDC-IDSP-2023-W43-2198,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),2021,43,43,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",282_Week 43.pdf
+NCDC-IDSP-2023-W44-2203,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2021,44,44,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",283_Week 44.pdf
+NCDC-IDSP-2023-W47-2216,Telangana,Dengue Fever (NS1/IgM Confirmed),2021,47,47,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",286_Week 47.pdf
+NCDC-IDSP-2023-W51-2229,Telangana,Dengue Fever (NS1/IgM Confirmed),2021,51,51,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",290_Week 51.pdf
+NCDC-IDSP-2023-W52-2231,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2021,52,52,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",291_Week 52.pdf
+NCDC-IDSP-2023-W01-2233,Karnataka,Dengue Fever (NS1/IgM Confirmed),2020,1,1,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",292_Week 1.pdf
+NCDC-IDSP-2023-W03-2237,Karnataka,Dengue Fever (NS1/IgM Confirmed),2020,3,3,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",294_Week 3.pdf
+NCDC-IDSP-2023-W04-2243,Karnataka,Dengue Fever (NS1/IgM Confirmed),2020,4,4,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",295_Week 4.pdf
+NCDC-IDSP-2023-W46-2335,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2020,46,46,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",337_Week 46.pdf
+NCDC-IDSP-2023-W51-2361,Karnataka,Dengue Fever (NS1/IgM Confirmed),2020,51,51,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",342_Week 51.pdf
+NCDC-IDSP-2023-W52-2364,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2020,52,52,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",343_Week 52.pdf
+NCDC-IDSP-2023-W53-2366,National Surveillance,Dengue Fever (NS1/IgM Confirmed),25,0,53,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",344_Week 53.pdf
+NCDC-IDSP-2023-W01-2382,Bihar,Dengue Fever (NS1/IgM Confirmed),2019,1,1,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",345_Week 1.pdf
+NCDC-IDSP-2023-W09-2396,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2019,9,9,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",353_Week 9.pdf
+NCDC-IDSP-2023-W09-2399,Telangana,Dengue Fever (NS1/IgM Confirmed),2019,9,9,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",353_Week 9.pdf
+NCDC-IDSP-2023-W14-2412,Karnataka,Dengue Fever (NS1/IgM Confirmed),2019,14,14,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",358_Week 14.pdf
+NCDC-IDSP-2023-W17-2416,Karnataka,Dengue Fever (NS1/IgM Confirmed),2019,17,17,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",361_Week 17.pdf
+NCDC-IDSP-2023-W22-2432,Karnataka,Dengue Fever (NS1/IgM Confirmed),2019,22,22,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",366_Week 22.pdf
+NCDC-IDSP-2023-W23-2443,Karnataka,Dengue Fever (NS1/IgM Confirmed),2019,23,23,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",367_Week 23.pdf
+NCDC-IDSP-2023-W24-2451,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2019,24,24,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",368_Week 24.pdf
+NCDC-IDSP-2023-W26-2475,Karnataka,Dengue Fever (NS1/IgM Confirmed),2019,26,26,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",370_Week 26.pdf
+NCDC-IDSP-2023-W28-2495,Telangana,Dengue Fever (NS1/IgM Confirmed),2019,28,28,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",372_Week 28.pdf
+NCDC-IDSP-2023-W29-2500,Karnataka,Dengue Fever (NS1/IgM Confirmed),2019,29,29,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",373_Week 29.pdf
+NCDC-IDSP-2023-W30-2506,Karnataka,Dengue Fever (NS1/IgM Confirmed),2019,30,30,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",374_Week 30.pdf
+NCDC-IDSP-2023-W32-2527,West Bengal,Dengue Fever (NS1/IgM Confirmed),2019,32,32,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",376_Week 32.pdf
+NCDC-IDSP-2023-W33-2536,West Bengal,Dengue Fever (NS1/IgM Confirmed),2019,33,33,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",377_Week 33.pdf
+NCDC-IDSP-2023-W34-2551,West Bengal,Dengue Fever (NS1/IgM Confirmed),2019,34,34,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",378_Week 34.pdf
+NCDC-IDSP-2023-W35-2578,Telangana,Dengue Fever (NS1/IgM Confirmed),2019,35,35,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",379_Week 35.pdf
+NCDC-IDSP-2023-W35-2581,West Bengal,Dengue Fever (NS1/IgM Confirmed),22,0,35,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",379_Week 35.pdf
+NCDC-IDSP-2023-W38-2620,Telangana,Dengue Fever (NS1/IgM Confirmed),2019,38,38,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",382_Week 38.pdf
+NCDC-IDSP-2023-W40-2650,Telangana,Dengue Fever (NS1/IgM Confirmed),2019,40,40,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",384_Week 40.pdf
+NCDC-IDSP-2023-W45-2719,Kerala,Dengue Fever (NS1/IgM Confirmed),2019,45,45,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",389_Week 45.pdf
+NCDC-IDSP-2023-W45-2726,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2019,45,45,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",389_Week 45.pdf
+NCDC-IDSP-2023-W45-2728,Telangana,Dengue Fever (NS1/IgM Confirmed),2019,45,45,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",389_Week 45.pdf
+NCDC-IDSP-2023-W48-2759,Delhi,Dengue Fever (NS1/IgM Confirmed),2019,48,48,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",392_Week 48.pdf
+NCDC-IDSP-2023-W49-2773,Kerala,Dengue Fever (NS1/IgM Confirmed),2019,49,49,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",393_Week 49.pdf
+NCDC-IDSP-2023-W51-2784,Bihar,Dengue Fever (NS1/IgM Confirmed),2019,51,51,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",395_Week 51.pdf
+NCDC-IDSP-2023-W51-2788,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2019,51,51,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",395_Week 51.pdf
+NCDC-IDSP-2023-W08-2804,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2018,8,8,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",404_Week 8.pdf
+NCDC-IDSP-2023-W10-2811,Maharashtra,Dengue Fever (NS1/IgM Confirmed),2018,10,10,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",406_Week 10.pdf
+NCDC-IDSP-2023-W30-2909,Telangana,Dengue Fever (NS1/IgM Confirmed),2018,30,30,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",426_Week 30.pdf
+NCDC-IDSP-2023-W30-2913,West Bengal,Dengue Fever (NS1/IgM Confirmed),2018,30,30,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",426_Week 30.pdf
+NCDC-IDSP-2023-W31-2917,West Bengal,Dengue Fever (NS1/IgM Confirmed),2018,31,31,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",427_Week 31.pdf
+NCDC-IDSP-2023-W33-2937,Telangana,Dengue Fever (NS1/IgM Confirmed),2018,33,33,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",429_Week 33.pdf
+NCDC-IDSP-2023-W37-2985,West Bengal,Dengue Fever (NS1/IgM Confirmed),2018,37,37,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",433_Week 37.pdf
+NCDC-IDSP-2023-W38-2991,Delhi,Dengue Fever (NS1/IgM Confirmed),2018,38,38,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",434_Week 38.pdf
+NCDC-IDSP-2023-W40-3010,West Bengal,Dengue Fever (NS1/IgM Confirmed),2018,40,40,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",436_Week 40.pdf
+NCDC-IDSP-2023-W41-3017,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2018,41,41,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",437_Week 41.pdf
+NCDC-IDSP-2023-W41-3020,West Bengal,Dengue Fever (NS1/IgM Confirmed),2018,36,41,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",437_Week 41.pdf
+NCDC-IDSP-2023-W44-3050,Rajasthan,Dengue Fever (NS1/IgM Confirmed),126,4,44,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",440_Week 44.pdf
+NCDC-IDSP-2023-W45-3052,West Bengal,Dengue Fever (NS1/IgM Confirmed),2018,45,45,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",441_Week 45.pdf
+NCDC-IDSP-2023-W46-3060,Telangana,Dengue Fever (NS1/IgM Confirmed),2018,46,46,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",442_Week 46.pdf
+NCDC-IDSP-2023-W48-3079,Bihar,Dengue Fever (NS1/IgM Confirmed),2018,48,48,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",444_Week 48.pdf
+NCDC-IDSP-2023-W49-3086,Bihar,Dengue Fever (NS1/IgM Confirmed),2018,49,49,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",445_Week 49.pdf
+NCDC-IDSP-2023-W01-3099,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2017,1,1,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",449_Week 1.pdf
+NCDC-IDSP-2023-W02-3105,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2017,2,2,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",450_Week 2.pdf
+NCDC-IDSP-2023-W14-3132,Gujarat,Dengue Fever (NS1/IgM Confirmed),2017,14,14,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",462_Week 14.pdf
+NCDC-IDSP-2023-W16-3146,Karnataka,Dengue Fever (NS1/IgM Confirmed),2017,16,16,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",464_Week 16.pdf
+NCDC-IDSP-2023-W18-3165,Karnataka,Dengue Fever (NS1/IgM Confirmed),2017,18,18,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",466_Week 18.pdf
+NCDC-IDSP-2023-W21-3189,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2017,21,21,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",469_Week 21.pdf
+NCDC-IDSP-2023-W22-3201,Gujarat,Dengue Fever (NS1/IgM Confirmed),2017,22,22,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",470_Week 22.pdf
+NCDC-IDSP-2023-W25-3227,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2017,25,25,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",473_Week 25.pdf
+NCDC-IDSP-2023-W26-3249,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2017,26,26,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",474_Week 26.pdf
+NCDC-IDSP-2023-W31-3291,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2017,31,31,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",479_Week 31.pdf
+NCDC-IDSP-2023-W31-3294,Telangana,Dengue Fever (NS1/IgM Confirmed),2017,31,31,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",479_Week 31.pdf
+NCDC-IDSP-2023-W33-3301,Karnataka,Dengue Fever (NS1/IgM Confirmed),2017,33,33,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",481_Week 33.pdf
+NCDC-IDSP-2023-W36-3342,Telangana,Dengue Fever (NS1/IgM Confirmed),2017,36,36,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",484_Week 36.pdf
+NCDC-IDSP-2023-W36-3345,Karnataka,Dengue Fever (NS1/IgM Confirmed),2017,36,36,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",484_Week 36.pdf
+NCDC-IDSP-2023-W38-3373,West Bengal,Dengue Fever (NS1/IgM Confirmed),2017,38,38,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",486_Week 38.pdf
+NCDC-IDSP-2023-W40-3398,Delhi,Dengue Fever (NS1/IgM Confirmed),2017,40,40,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",488_Week 40.pdf
+NCDC-IDSP-2023-W44-3446,West Bengal,Dengue Fever (NS1/IgM Confirmed),2017,44,44,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",492_Week 44.pdf
+NCDC-IDSP-2023-W51-3489,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2017,51,51,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",499_Week 51.pdf
+NCDC-IDSP-2023-W52-3494,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2017,51,52,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",500_Week 52.pdf
+NCDC-IDSP-2023-W03-3504,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2016,3,3,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",503_Week 3.pdf
+NCDC-IDSP-2023-W05-3513,Karnataka,Dengue Fever (NS1/IgM Confirmed),2016,5,5,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",505_Week 5.pdf
+NCDC-IDSP-2023-W06-3516,Kerala,Dengue Fever (NS1/IgM Confirmed),2016,6,6,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",506_Week 6.pdf
+NCDC-IDSP-2023-W06-3518,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2016,6,6,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",506_Week 6.pdf
+NCDC-IDSP-2023-W07-3524,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2016,7,7,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",507_Week 7.pdf
+NCDC-IDSP-2023-W09-3527,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2016,9,9,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",509_Week 9.pdf
+NCDC-IDSP-2023-W14-3539,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2016,14,14,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",514_Week 14.pdf
+NCDC-IDSP-2023-W16-3543,Rajasthan,Dengue Fever (NS1/IgM Confirmed),35,0,16,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",516_Week 16.pdf
+NCDC-IDSP-2023-W18-3558,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2016,18,18,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",518_Week 18.pdf
+NCDC-IDSP-2023-W19-3561,Karnataka,Dengue Fever (NS1/IgM Confirmed),2016,19,19,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",519_Week 19.pdf
+NCDC-IDSP-2023-W20-3572,Karnataka,Dengue Fever (NS1/IgM Confirmed),2016,20,20,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",520_Week 20.pdf
+NCDC-IDSP-2023-W24-3609,West Bengal,Dengue Fever (NS1/IgM Confirmed),2016,24,24,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",524_Week 24.pdf
+NCDC-IDSP-2023-W28-3633,West Bengal,Dengue Fever (NS1/IgM Confirmed),2016,28,28,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",528_Week 28.pdf
+NCDC-IDSP-2023-W29-3642,West Bengal,Dengue Fever (NS1/IgM Confirmed),2,0,29,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",529_Week 29.pdf
+NCDC-IDSP-2023-W36-3736,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2016,36,36,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",536_Week 36.pdf
+NCDC-IDSP-2023-W37-3755,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2016,37,37,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",537_Week 37.pdf
+NCDC-IDSP-2023-W37-3757,Telangana,Dengue Fever (NS1/IgM Confirmed),2016,37,37,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",537_Week 37.pdf
+NCDC-IDSP-2023-W39-3803,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2016,39,39,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",539_Week 39.pdf
+NCDC-IDSP-2023-W39-3808,West Bengal,Dengue Fever (NS1/IgM Confirmed),2016,39,39,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",539_Week 39.pdf
+NCDC-IDSP-2023-W40-3809,Rajasthan,Dengue Fever (NS1/IgM Confirmed),2016,40,40,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",540_Week 40.pdf
+NCDC-IDSP-2023-W41-3834,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),2016,41,41,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",541_Week 41.pdf
+NCDC-IDSP-2023-W42-3843,West Bengal,Dengue Fever (NS1/IgM Confirmed),2016,42,42,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",542_Week 42.pdf
+NCDC-IDSP-2023-W43-3849,Karnataka,Dengue Fever (NS1/IgM Confirmed),2016,43,43,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",543_Week 43.pdf
+NCDC-IDSP-2023-W43-3852,West Bengal,Dengue Fever (NS1/IgM Confirmed),2016,43,43,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",543_Week 43.pdf
+NCDC-IDSP-2023-W44-3853,Telangana,Dengue Fever (NS1/IgM Confirmed),2016,44,44,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",544_Week 44.pdf
+NCDC-IDSP-2023-W50-3892,Kerala,Dengue Fever (NS1/IgM Confirmed),2016,50,50,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",550_Week 50.pdf
+NCDC-IDSP-2023-W52-3898,Kerala,Dengue Fever (NS1/IgM Confirmed),2016,52,52,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",552_Week 52.pdf
+NCDC-IDSP-2023-W18-3950,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),6,0,18,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",570_Week 18.pdf
+NCDC-IDSP-2023-W34-4088,Delhi,Dengue Fever (NS1/IgM Confirmed),1,0,34,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",586_Week 34.pdf
+NCDC-IDSP-2023-W35-4104,Delhi,Dengue Fever (NS1/IgM Confirmed),1,0,35,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",587_Week 35.pdf
+NCDC-IDSP-2023-W36-4125,Delhi,Dengue Fever (NS1/IgM Confirmed),4,0,36,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",588_Week 36.pdf
+NCDC-IDSP-2023-W37-4151,Delhi,Dengue Fever (NS1/IgM Confirmed),5,0,37,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",589_Week 37.pdf
+NCDC-IDSP-2023-W38-4164,Rajasthan,Dengue Fever (NS1/IgM Confirmed),11,0,38,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",590_Week 38.pdf
+NCDC-IDSP-2023-W39-4202,Delhi,Dengue Fever (NS1/IgM Confirmed),7,0,39,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",591_Week 39.pdf
+NCDC-IDSP-2023-W41-4233,Delhi,Dengue Fever (NS1/IgM Confirmed),4,0,41,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",593_Week 41.pdf
+NCDC-IDSP-2023-W42-4251,Rajasthan,Dengue Fever (NS1/IgM Confirmed),11,8,42,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",594_Week 42.pdf
+NCDC-IDSP-2023-W42-4256,Bihar,Dengue Fever (NS1/IgM Confirmed),2,0,42,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",594_Week 42.pdf
+NCDC-IDSP-2023-W42-4261,Delhi,Dengue Fever (NS1/IgM Confirmed),4,0,42,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",594_Week 42.pdf
+NCDC-IDSP-2023-W43-4273,Delhi,Dengue Fever (NS1/IgM Confirmed),3,0,43,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",595_Week 43.pdf
+NCDC-IDSP-2023-W45-4300,Delhi,Dengue Fever (NS1/IgM Confirmed),3,0,45,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",597_Week 45.pdf
+NCDC-IDSP-2023-W47-4309,Bihar,Dengue Fever (NS1/IgM Confirmed),1,0,47,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",599_Week 47.pdf
+NCDC-IDSP-2023-W50-4330,West Bengal,Dengue Fever (NS1/IgM Confirmed),17,0,50,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",602_Week 50.pdf
+NCDC-IDSP-2023-W50-4333,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),11,0,50,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",602_Week 50.pdf
+NCDC-IDSP-2023-W50-4334,Bihar,Dengue Fever (NS1/IgM Confirmed),1,0,50,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",602_Week 50.pdf
+NCDC-IDSP-2023-W51-4338,Gujarat,Dengue Fever (NS1/IgM Confirmed),7,0,51,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",603_Week 51.pdf
+NCDC-IDSP-2023-W53-4348,Maharashtra,Dengue Fever (NS1/IgM Confirmed),10,1,53,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",605_Week 53.pdf
+NCDC-IDSP-2023-W20-4387,Rajasthan,Dengue Fever (NS1/IgM Confirmed),17,0,20,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",625_Week 20.pdf
+NCDC-IDSP-2023-W39-4578,Karnataka,Dengue Fever (NS1/IgM Confirmed),506,0,39,2023,Under Active Surveillance,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",644_Week 39.pdf
+NCDC-IDSP-2023-W43-4609,Bihar,Dengue Fever (NS1/IgM Confirmed),1,0,43,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",648_Week 43.pdf
+NCDC-IDSP-2023-W48-4667,West Bengal,Dengue Fever (NS1/IgM Confirmed),2,0,48,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",653_Week 48.pdf
+NCDC-IDSP-2023-W52-4692,West Bengal,Dengue Fever (NS1/IgM Confirmed),1,0,52,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",657_Week 52.pdf
+NCDC-IDSP-2023-W08-4718,Kerala,Dengue Fever (NS1/IgM Confirmed),7,4,8,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",665_Week 8.pdf
+NCDC-IDSP-2023-W34-4897,Bihar,Dengue Fever (NS1/IgM Confirmed),25,0,34,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",691_Week 34.pdf
+NCDC-IDSP-2023-W39-4953,Gujarat,Dengue Fever (NS1/IgM Confirmed),2,0,39,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",696_Week 39.pdf
+NCDC-IDSP-2023-W51-5044,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),11,0,51,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",708_Week 51.pdf
+NCDC-IDSP-2023-W16-5086,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),10,0,16,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",725_Week 16.pdf
+NCDC-IDSP-2023-W20-5115,Tamil Nadu,Dengue Fever (NS1/IgM Confirmed),21,0,20,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",729_Week 20.pdf
+NCDC-IDSP-2023-W38-5284,Odisha,Dengue Fever (NS1/IgM Confirmed),10,0,38,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",747_Week 38.pdf
+NCDC-IDSP-2023-W47-5415,Gujarat,Dengue Fever (NS1/IgM Confirmed),4,0,47,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",756_Week 47.pdf
+NCDC-IDSP-2023-W47-5417,Karnataka,Dengue Fever (NS1/IgM Confirmed),5,0,47,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",756_Week 47.pdf
+NCDC-IDSP-2023-W47-5424,Uttar Pradesh,Dengue Fever (NS1/IgM Confirmed),1,0,47,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",756_Week 47.pdf
+NCDC-IDSP-2023-W26-5515,West Bengal,Dengue Fever (NS1/IgM Confirmed),11,0,26,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",787_Week 26.pdf
+NCDC-IDSP-2023-W40-5583,Karnataka,Dengue Fever (NS1/IgM Confirmed),2,0,40,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",801_Week 40.pdf
+NCDC-IDSP-2023-W02-5643,West Bengal,Dengue Fever (NS1/IgM Confirmed),1,0,2,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",814_Week 2.pdf
+NCDC-IDSP-2023-W49-5774,Rajasthan,Dengue Fever (NS1/IgM Confirmed),5,0,49,2023,Under Control,"ULV Thermal Fogging, Temephos Larviciding & Fever Clinics Deployed",861_Week 49.pdf
